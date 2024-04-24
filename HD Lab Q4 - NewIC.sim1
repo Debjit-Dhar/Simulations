@@ -1,0 +1,81 @@
+<circuit version="1.0.0-SR2" rev="1449" stepSize="1000000" stepsPS="1000000" NLsteps="100000" reaStep="1000000" animate="0" >
+
+<item itemtype="Subcircuit" CircId="74HC192-1" mainComp="false" Show_id="true" Show_Val="false" Pos="716,548" rotation="0" hflip="1" vflip="1" label="74HC192-1" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Logic_Symbol="true" />
+
+<item itemtype="7-Seg BCD" CircId="7-Seg BCD-14" mainComp="false" Show_id="false" Show_Val="false" Pos="804,516" rotation="0" hflip="1" vflip="1" label="7-Seg BCD-14" idLabPos="-16,-40" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Probe" CircId="Probe-29" mainComp="false" Show_id="false" Show_Val="true" Pos="828,688" rotation="-45" hflip="1" vflip="1" label="Probe-29" idLabPos="16,-16" labelrot="45" valLabPos="16,0" valLabRot="45" ShowVolt="true" Threshold="2.5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-67" mainComp="false" ShowProp="Voltage" Show_id="false" Show_Val="true" Pos="620,596" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-67" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
+
+<item itemtype="Ground" CircId="Ground-111" mainComp="false" Show_id="false" Show_Val="false" Pos="696,656" rotation="0" hflip="1" vflip="1" label="Ground-111" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Clock" CircId="Clock-140" mainComp="false" ShowProp="Freq" Show_id="false" Show_Val="true" Pos="588,628" rotation="0" hflip="1" vflip="1" label="Clock-140" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Running="true" Voltage="5 V" Freq="1 Hz" Always_On="false" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-164" mainComp="false" Show_id="false" Show_Val="false" Pos="652,488" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-164" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-165" mainComp="false" Show_id="false" Show_Val="false" Pos="624,508" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-165" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-166" mainComp="false" Show_id="false" Show_Val="false" Pos="616,528" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-166" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-167" mainComp="false" Show_id="false" Show_Val="false" Pos="624,556" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-167" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-199" mainComp="false" Show_id="false" Show_Val="false" Pos="620,656" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-199" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
+
+<item itemtype="LedRgb" CircId="LedRgb-202" mainComp="false" Show_id="false" Show_Val="false" Pos="816,656" rotation="0" hflip="1" vflip="1" label="LedRgb-202" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" CommonCathode="true" Threshold_R="2.4 V" MaxCurrent_R="0.03 A" Resistance_R="0.6 Ω" Threshold_G="3.5 V" MaxCurrent_G="0.03 A" Resistance_G="0.6 Ω" Threshold_B="3.5 V" MaxCurrent_B="0.03 A" Resistance_B="0.6 Ω" />
+
+<item itemtype="Ground" CircId="Ground-203" mainComp="false" Show_id="false" Show_Val="false" Pos="896,672" rotation="0" hflip="1" vflip="1" label="Ground-203" idLabPos="-16,8" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Subcircuit" CircId="74HC04-205" mainComp="false" Show_id="true" Show_Val="false" Pos="752,688" rotation="0" hflip="1" vflip="1" label="74HC04-205" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Logic_Symbol="true" />
+
+<item itemtype="LedRgb" CircId="LedRgb-238" mainComp="false" Show_id="false" Show_Val="false" Pos="864,600" rotation="0" hflip="1" vflip="1" label="LedRgb-238" idLabPos="-16,-24" labelrot="0" valLabPos="-16,20" valLabRot="0" CommonCathode="true" Threshold_R="2.4 V" MaxCurrent_R="0.03 A" Resistance_R="0.6 Ω" Threshold_G="3.5 V" MaxCurrent_G="0.03 A" Resistance_G="0.6 Ω" Threshold_B="3.5 V" MaxCurrent_B="0.03 A" Resistance_B="0.6 Ω" />
+
+<item itemtype="Node" CircId="Node-221" mainComp="false" Pos="792,580" />
+
+<item itemtype="Node" CircId="Node-240" mainComp="false" Pos="888,656" />
+
+<item itemtype="Node" CircId="Node-262" mainComp="false" Pos="792,656" />
+
+<item itemtype="Connector" uid="connector-263" startpinid="Fixed Voltage-67-outnod" endpinid="74HC192-1-!PL" pointList="636,596,708,596" />
+
+<item itemtype="Connector" uid="connector-264" startpinid="74HC192-1-Q2" endpinid="7-Seg BCD-14-in2" pointList="756,572,800,572,800,548" />
+
+<item itemtype="Connector" uid="connector-265" startpinid="74HC192-1-Q1" endpinid="7-Seg BCD-14-in1" pointList="756,564,808,564,808,548" />
+
+<item itemtype="Connector" uid="connector-266" startpinid="74HC192-1-Q0" endpinid="7-Seg BCD-14-in0" pointList="756,556,816,556,816,548" />
+
+<item itemtype="Connector" uid="connector-267" startpinid="Fixed Voltage-164-outnod" endpinid="74HC192-1-D0" pointList="668,488,708,488,708,556" />
+
+<item itemtype="Connector" uid="connector-268" startpinid="74HC192-1-D1" endpinid="Fixed Voltage-165-outnod" pointList="708,564,696,564,696,508,640,508" />
+
+<item itemtype="Connector" uid="connector-269" startpinid="Fixed Voltage-166-outnod" endpinid="74HC192-1-D2" pointList="632,528,684,528,684,572,708,572" />
+
+<item itemtype="Connector" uid="connector-270" startpinid="74HC192-1-D3" endpinid="Fixed Voltage-167-outnod" pointList="708,580,640,580,640,556" />
+
+<item itemtype="Connector" uid="connector-271" startpinid="74HC192-1-R" endpinid="Ground-111-Gnd" pointList="708,620,696,620,696,640" />
+
+<item itemtype="Connector" uid="connector-272" startpinid="Fixed Voltage-199-outnod" endpinid="74HC192-1-CPu" pointList="636,656,660,656,660,604,708,604" />
+
+<item itemtype="Connector" uid="connector-273" startpinid="Clock-140-outnod" endpinid="74HC192-1-CPd" pointList="604,628,668,628,668,612,708,612" />
+
+<item itemtype="Connector" uid="connector-274" startpinid="Ground-203-Gnd" endpinid="Node-240-0" pointList="896,656,888,656" />
+
+<item itemtype="Connector" uid="connector-275" startpinid="74HC04-205-1Y" endpinid="Node-262-0" pointList="792,696,864,696,864,636,792,636,792,656" />
+
+<item itemtype="Connector" uid="connector-276" startpinid="74HC192-1-Q3" endpinid="Node-221-0" pointList="756,580,792,580" />
+
+<item itemtype="Connector" uid="connector-277" startpinid="Node-221-2" endpinid="7-Seg BCD-14-in3" pointList="792,580,792,548" />
+
+<item itemtype="Connector" uid="connector-278" startpinid="LedRgb-238-Pin3" endpinid="Node-240-1" pointList="880,600,888,600,888,656" />
+
+<item itemtype="Connector" uid="connector-279" startpinid="Node-240-2" endpinid="LedRgb-202-Pin3" pointList="888,656,832,656" />
+
+<item itemtype="Connector" uid="connector-280" startpinid="Node-221-1" endpinid="74HC04-205-1A" pointList="792,580,792,620,940,620,940,748,732,748,732,696,744,696" />
+
+<item itemtype="Connector" uid="connector-281" startpinid="Node-262-2" endpinid="LedRgb-202-Pin1" pointList="792,656,800,656" />
+
+<item itemtype="Connector" uid="connector-282" startpinid="Node-262-1" endpinid="74HC04-205-2A" pointList="792,656,708,656,708,704,744,704" />
+
+<item itemtype="Connector" uid="connector-283" startpinid="74HC04-205-2Y" endpinid="LedRgb-238-Pin0" pointList="792,704,840,704,840,592,848,592" />
+
+</circuit>

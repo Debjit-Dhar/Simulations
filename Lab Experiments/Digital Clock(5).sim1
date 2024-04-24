@@ -1,0 +1,359 @@
+<circuit version="1.0.0-SR2" rev="1449" stepSize="1000000" stepsPS="1000000" NLsteps="100000" reaStep="1000000" animate="0" >
+
+<item itemtype="Subcircuit" CircId="74HC192-2" mainComp="false" Show_id="true" Show_Val="false" Pos="476,484" rotation="0" hflip="1" vflip="1" label="74HC192-2" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Logic_Symbol="true" />
+
+<item itemtype="7-Seg BCD" CircId="7-Seg BCD-8" mainComp="false" Show_id="false" Show_Val="false" Pos="580,444" rotation="0" hflip="1" vflip="1" label="7-Seg BCD-8" idLabPos="-16,-40" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Clock" CircId="Clock-41" mainComp="false" Show_id="false" Show_Val="false" Pos="408,540" rotation="0" hflip="1" vflip="1" label="Clock-41" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Running="true" Voltage="5 V" Freq="1 Hz" Always_On="false" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-43" mainComp="false" Show_id="false" Show_Val="false" Pos="416,440" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-43" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-45" mainComp="false" Show_id="false" Show_Val="false" Pos="408,460" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-45" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-46" mainComp="false" Show_id="false" Show_Val="false" Pos="408,484" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-46" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-47" mainComp="false" Show_id="false" Show_Val="false" Pos="408,508" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-47" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-48" mainComp="false" Show_id="false" Show_Val="false" Pos="412,572" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-48" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-53" mainComp="false" Show_id="false" Show_Val="false" Pos="444,604" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-53" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Probe" CircId="Probe-85" mainComp="false" Show_id="false" Show_Val="true" Pos="444,524" rotation="-45" hflip="1" vflip="1" label="Probe-85" idLabPos="16,-16" labelrot="45" valLabPos="16,0" valLabRot="45" ShowVolt="true" Threshold="2.5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-120" mainComp="false" Show_id="false" Show_Val="false" Pos="384,600" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-120" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-133" mainComp="false" Show_id="false" Show_Val="false" Pos="664,484" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-133" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Subcircuit" CircId="74HC192-134" mainComp="false" Show_id="true" Show_Val="false" Pos="732,484" rotation="0" hflip="1" vflip="1" label="74HC192-134" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Logic_Symbol="true" />
+
+<item itemtype="Probe" CircId="Probe-135" mainComp="false" Show_id="false" Show_Val="true" Pos="588,532" rotation="-45" hflip="1" vflip="1" label="Probe-135" idLabPos="16,-16" labelrot="45" valLabPos="16,0" valLabRot="45" ShowVolt="true" Threshold="2.5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-136" mainComp="false" Show_id="false" Show_Val="false" Pos="664,508" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-136" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-137" mainComp="false" Show_id="false" Show_Val="false" Pos="672,440" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-137" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-138" mainComp="false" Show_id="false" Show_Val="false" Pos="700,604" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-138" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-139" mainComp="false" Show_id="false" Show_Val="false" Pos="664,460" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-139" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-140" mainComp="false" Show_id="false" Show_Val="false" Pos="640,600" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-140" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-141" mainComp="false" Show_id="false" Show_Val="false" Pos="668,572" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-141" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
+
+<item itemtype="7-Seg BCD" CircId="7-Seg BCD-142" mainComp="false" Show_id="false" Show_Val="false" Pos="836,444" rotation="0" hflip="1" vflip="1" label="7-Seg BCD-142" idLabPos="-16,-40" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-156" mainComp="false" Show_id="false" Show_Val="false" Pos="416,704" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-156" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
+
+<item itemtype="Subcircuit" CircId="74HC192-157" mainComp="false" Show_id="true" Show_Val="false" Pos="484,704" rotation="0" hflip="1" vflip="1" label="74HC192-157" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Logic_Symbol="true" />
+
+<item itemtype="Probe" CircId="Probe-158" mainComp="false" Show_id="false" Show_Val="true" Pos="436,744" rotation="-45" hflip="1" vflip="1" label="Probe-158" idLabPos="16,-16" labelrot="45" valLabPos="16,0" valLabRot="45" ShowVolt="true" Threshold="2.5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-159" mainComp="false" Show_id="false" Show_Val="false" Pos="416,728" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-159" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-160" mainComp="false" Show_id="false" Show_Val="false" Pos="424,660" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-160" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-161" mainComp="false" Show_id="false" Show_Val="false" Pos="452,824" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-161" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-162" mainComp="false" Show_id="false" Show_Val="false" Pos="416,680" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-162" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-163" mainComp="false" Show_id="false" Show_Val="false" Pos="392,820" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-163" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-164" mainComp="false" Show_id="false" Show_Val="false" Pos="420,792" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-164" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
+
+<item itemtype="7-Seg BCD" CircId="7-Seg BCD-165" mainComp="false" Show_id="false" Show_Val="false" Pos="588,664" rotation="0" hflip="1" vflip="1" label="7-Seg BCD-165" idLabPos="-16,-40" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-179" mainComp="false" Show_id="false" Show_Val="false" Pos="680,696" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-179" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
+
+<item itemtype="Subcircuit" CircId="74HC192-180" mainComp="false" Show_id="true" Show_Val="false" Pos="748,696" rotation="0" hflip="1" vflip="1" label="74HC192-180" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Logic_Symbol="true" />
+
+<item itemtype="Probe" CircId="Probe-181" mainComp="false" Show_id="false" Show_Val="true" Pos="716,736" rotation="-45" hflip="1" vflip="1" label="Probe-181" idLabPos="16,-16" labelrot="45" valLabPos="16,0" valLabRot="45" ShowVolt="true" Threshold="2.5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-182" mainComp="false" Show_id="false" Show_Val="false" Pos="680,720" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-182" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-183" mainComp="false" Show_id="false" Show_Val="false" Pos="688,652" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-183" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-184" mainComp="false" Show_id="false" Show_Val="false" Pos="716,816" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-184" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-185" mainComp="false" Show_id="false" Show_Val="false" Pos="680,672" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-185" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-186" mainComp="false" Show_id="false" Show_Val="false" Pos="656,812" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-186" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-187" mainComp="false" Show_id="false" Show_Val="false" Pos="684,784" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-187" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
+
+<item itemtype="7-Seg BCD" CircId="7-Seg BCD-188" mainComp="false" Show_id="false" Show_Val="false" Pos="852,656" rotation="0" hflip="1" vflip="1" label="7-Seg BCD-188" idLabPos="-16,-40" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-202" mainComp="false" Show_id="false" Show_Val="false" Pos="392,920" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-202" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Subcircuit" CircId="74HC192-203" mainComp="false" Show_id="true" Show_Val="false" Pos="460,920" rotation="0" hflip="1" vflip="1" label="74HC192-203" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Logic_Symbol="true" />
+
+<item itemtype="Probe" CircId="Probe-204" mainComp="false" Show_id="false" Show_Val="true" Pos="416,960" rotation="-45" hflip="1" vflip="1" label="Probe-204" idLabPos="16,-16" labelrot="45" valLabPos="16,0" valLabRot="45" ShowVolt="true" Threshold="2.5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-206" mainComp="false" Show_id="false" Show_Val="false" Pos="400,876" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-206" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-207" mainComp="false" Show_id="false" Show_Val="false" Pos="428,1040" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-207" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-208" mainComp="false" Show_id="false" Show_Val="false" Pos="392,896" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-208" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-209" mainComp="false" Show_id="false" Show_Val="false" Pos="368,1036" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-209" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-210" mainComp="false" Show_id="false" Show_Val="false" Pos="396,1008" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-210" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
+
+<item itemtype="7-Seg BCD" CircId="7-Seg BCD-211" mainComp="false" Show_id="false" Show_Val="false" Pos="564,880" rotation="0" hflip="1" vflip="1" label="7-Seg BCD-211" idLabPos="-16,-40" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-225" mainComp="false" Show_id="false" Show_Val="false" Pos="664,920" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-225" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Subcircuit" CircId="74HC192-226" mainComp="false" Show_id="true" Show_Val="false" Pos="732,920" rotation="0" hflip="1" vflip="1" label="74HC192-226" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Logic_Symbol="true" />
+
+<item itemtype="Probe" CircId="Probe-227" mainComp="false" Show_id="false" Show_Val="true" Pos="700,960" rotation="-45" hflip="1" vflip="1" label="Probe-227" idLabPos="16,-16" labelrot="45" valLabPos="16,0" valLabRot="45" ShowVolt="true" Threshold="2.5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-228" mainComp="false" Show_id="false" Show_Val="false" Pos="664,944" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-228" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-229" mainComp="false" Show_id="false" Show_Val="false" Pos="672,876" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-229" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-230" mainComp="false" Show_id="false" Show_Val="false" Pos="700,1040" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-230" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-231" mainComp="false" Show_id="false" Show_Val="false" Pos="664,896" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-231" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-232" mainComp="false" Show_id="false" Show_Val="false" Pos="640,1036" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-232" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-233" mainComp="false" Show_id="false" Show_Val="false" Pos="668,1008" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-233" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="true" Voltage="5 V" />
+
+<item itemtype="7-Seg BCD" CircId="7-Seg BCD-234" mainComp="false" Show_id="false" Show_Val="false" Pos="836,880" rotation="0" hflip="1" vflip="1" label="7-Seg BCD-234" idLabPos="-16,-40" labelrot="0" valLabPos="-16,20" valLabRot="0" />
+
+<item itemtype="Subcircuit" CircId="74HC08-312" mainComp="false" Show_id="true" Show_Val="false" Pos="864,536" rotation="0" hflip="1" vflip="1" label="74HC08-312" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Logic_Symbol="true" />
+
+<item itemtype="Subcircuit" CircId="74HC32-324" mainComp="false" Show_id="true" Show_Val="false" Pos="944,544" rotation="0" hflip="1" vflip="1" label="74HC32-324" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Logic_Symbol="true" />
+
+<item itemtype="Probe" CircId="Probe-328" mainComp="false" Show_id="false" Show_Val="true" Pos="788,532" rotation="-45" hflip="1" vflip="1" label="Probe-328" idLabPos="16,-16" labelrot="45" valLabPos="16,0" valLabRot="45" ShowVolt="true" Threshold="2.5 V" />
+
+<item itemtype="Subcircuit" CircId="74HC08-438" mainComp="false" Show_id="true" Show_Val="false" Pos="1004,936" rotation="0" hflip="1" vflip="1" label="74HC08-438" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Logic_Symbol="true" />
+
+<item itemtype="Subcircuit" CircId="74HC32-638" mainComp="false" Show_id="true" Show_Val="false" Pos="1156,940" rotation="0" hflip="1" vflip="1" label="74HC32-638" idLabPos="0,-20" labelrot="0" valLabPos="-16,20" valLabRot="0" Logic_Symbol="true" />
+
+<item itemtype="Fixed Voltage" CircId="Fixed Voltage-739" mainComp="false" Show_id="false" Show_Val="false" Pos="372,944" rotation="0" hflip="1" vflip="1" label="Fixed Voltage-739" idLabPos="-64,-24" labelrot="0" valLabPos="-16,8" valLabRot="0" Out="false" Voltage="5 V" />
+
+<item itemtype="Node" CircId="Node-313" mainComp="false" Pos="840,500" />
+
+<item itemtype="Node" CircId="Node-316" mainComp="false" Pos="832,508" />
+
+<item itemtype="Node" CircId="Node-329" mainComp="false" Pos="760,580" />
+
+<item itemtype="Node" CircId="Node-333" mainComp="false" Pos="856,712" />
+
+<item itemtype="Node" CircId="Node-336" mainComp="false" Pos="848,720" />
+
+<item itemtype="Node" CircId="Node-342" mainComp="false" Pos="764,800" />
+
+<item itemtype="Node" CircId="Node-430" mainComp="false" Pos="848,928" />
+
+<item itemtype="Node" CircId="Node-432" mainComp="false" Pos="840,936" />
+
+<item itemtype="Node" CircId="Node-439" mainComp="false" Pos="856,1020" />
+
+<item itemtype="Node" CircId="Node-537" mainComp="false" Pos="576,928" />
+
+<item itemtype="Node" CircId="Node-540" mainComp="false" Pos="560,944" />
+
+<item itemtype="Connector" uid="connector-639" startpinid="74HC192-2-Q0" endpinid="7-Seg BCD-8-in0" pointList="516,492,592,492,592,476" />
+
+<item itemtype="Connector" uid="connector-640" startpinid="74HC192-2-Q1" endpinid="7-Seg BCD-8-in1" pointList="516,500,584,500,584,476" />
+
+<item itemtype="Connector" uid="connector-641" startpinid="7-Seg BCD-8-in2" endpinid="74HC192-2-Q2" pointList="576,476,576,508,516,508" />
+
+<item itemtype="Connector" uid="connector-642" startpinid="74HC192-2-Q3" endpinid="7-Seg BCD-8-in3" pointList="516,516,568,516,568,476" />
+
+<item itemtype="Connector" uid="connector-643" startpinid="Clock-41-outnod" endpinid="74HC192-2-CPu" pointList="424,540,468,540" />
+
+<item itemtype="Connector" uid="connector-644" startpinid="Fixed Voltage-43-outnod" endpinid="74HC192-2-D0" pointList="432,440,468,440,468,492" />
+
+<item itemtype="Connector" uid="connector-645" startpinid="Fixed Voltage-45-outnod" endpinid="74HC192-2-D1" pointList="424,460,456,460,456,500,468,500" />
+
+<item itemtype="Connector" uid="connector-646" startpinid="74HC192-2-D2" endpinid="Fixed Voltage-46-outnod" pointList="468,508,448,508,448,484,424,484" />
+
+<item itemtype="Connector" uid="connector-647" startpinid="Fixed Voltage-47-outnod" endpinid="74HC192-2-D3" pointList="424,508,440,508,440,516,468,516" />
+
+<item itemtype="Connector" uid="connector-648" startpinid="74HC192-2-R" endpinid="Fixed Voltage-53-outnod" pointList="468,556,468,604,460,604" />
+
+<item itemtype="Connector" uid="connector-649" startpinid="Fixed Voltage-48-outnod" endpinid="74HC192-2-!PL" pointList="428,572,440,572,440,532,468,532" />
+
+<item itemtype="Connector" uid="connector-650" startpinid="Fixed Voltage-120-outnod" endpinid="74HC192-2-CPd" pointList="400,600,400,584,452,584,452,548,468,548" />
+
+<item itemtype="Connector" uid="connector-651" startpinid="Fixed Voltage-139-outnod" endpinid="74HC192-134-D1" pointList="680,460,712,460,712,500,724,500" />
+
+<item itemtype="Connector" uid="connector-652" startpinid="Fixed Voltage-136-outnod" endpinid="74HC192-134-D3" pointList="680,508,696,508,696,516,724,516" />
+
+<item itemtype="Connector" uid="connector-653" startpinid="Fixed Voltage-140-outnod" endpinid="74HC192-134-CPd" pointList="656,600,656,584,708,584,708,548,724,548" />
+
+<item itemtype="Connector" uid="connector-654" startpinid="Fixed Voltage-137-outnod" endpinid="74HC192-134-D0" pointList="688,440,724,440,724,492" />
+
+<item itemtype="Connector" uid="connector-655" startpinid="7-Seg BCD-142-in2" endpinid="Node-316-0" pointList="832,476,832,508" />
+
+<item itemtype="Connector" uid="connector-656" startpinid="74HC192-134-Q1" endpinid="Node-313-0" pointList="772,500,840,500" />
+
+<item itemtype="Connector" uid="connector-657" startpinid="74HC192-134-Q0" endpinid="7-Seg BCD-142-in0" pointList="772,492,848,492,848,476" />
+
+<item itemtype="Connector" uid="connector-658" startpinid="Fixed Voltage-141-outnod" endpinid="74HC192-134-!PL" pointList="684,572,696,572,696,532,724,532" />
+
+<item itemtype="Connector" uid="connector-659" startpinid="74HC192-134-D2" endpinid="Fixed Voltage-133-outnod" pointList="724,508,704,508,704,484,680,484" />
+
+<item itemtype="Connector" uid="connector-660" startpinid="74HC192-134-Q3" endpinid="7-Seg BCD-142-in3" pointList="772,516,824,516,824,476" />
+
+<item itemtype="Connector" uid="connector-661" startpinid="Fixed Voltage-162-outnod" endpinid="74HC192-157-D1" pointList="432,680,464,680,464,720,476,720" />
+
+<item itemtype="Connector" uid="connector-662" startpinid="Fixed Voltage-159-outnod" endpinid="74HC192-157-D3" pointList="432,728,448,728,448,736,476,736" />
+
+<item itemtype="Connector" uid="connector-663" startpinid="Fixed Voltage-163-outnod" endpinid="74HC192-157-CPd" pointList="408,820,408,804,460,804,460,768,476,768" />
+
+<item itemtype="Connector" uid="connector-664" startpinid="Fixed Voltage-160-outnod" endpinid="74HC192-157-D0" pointList="440,660,476,660,476,712" />
+
+<item itemtype="Connector" uid="connector-665" startpinid="7-Seg BCD-165-in2" endpinid="74HC192-157-Q2" pointList="584,696,584,728,524,728" />
+
+<item itemtype="Connector" uid="connector-666" startpinid="74HC192-157-Q1" endpinid="7-Seg BCD-165-in1" pointList="524,720,592,720,592,696" />
+
+<item itemtype="Connector" uid="connector-667" startpinid="74HC192-157-Q0" endpinid="7-Seg BCD-165-in0" pointList="524,712,600,712,600,696" />
+
+<item itemtype="Connector" uid="connector-668" startpinid="Fixed Voltage-164-outnod" endpinid="74HC192-157-!PL" pointList="436,792,448,792,448,752,476,752" />
+
+<item itemtype="Connector" uid="connector-669" startpinid="74HC192-157-R" endpinid="Fixed Voltage-161-outnod" pointList="476,776,476,824,468,824" />
+
+<item itemtype="Connector" uid="connector-670" startpinid="74HC192-157-D2" endpinid="Fixed Voltage-156-outnod" pointList="476,728,456,728,456,704,432,704" />
+
+<item itemtype="Connector" uid="connector-671" startpinid="74HC192-157-Q3" endpinid="7-Seg BCD-165-in3" pointList="524,736,576,736,576,696" />
+
+<item itemtype="Connector" uid="connector-672" startpinid="Fixed Voltage-185-outnod" endpinid="74HC192-180-D1" pointList="696,672,728,672,728,712,740,712" />
+
+<item itemtype="Connector" uid="connector-673" startpinid="Fixed Voltage-182-outnod" endpinid="74HC192-180-D3" pointList="696,720,712,720,712,728,740,728" />
+
+<item itemtype="Connector" uid="connector-674" startpinid="Fixed Voltage-186-outnod" endpinid="74HC192-180-CPd" pointList="672,812,672,796,724,796,724,760,740,760" />
+
+<item itemtype="Connector" uid="connector-675" startpinid="Fixed Voltage-183-outnod" endpinid="74HC192-180-D0" pointList="704,652,740,652,740,704" />
+
+<item itemtype="Connector" uid="connector-676" startpinid="7-Seg BCD-188-in2" endpinid="Node-336-0" pointList="848,688,848,720" />
+
+<item itemtype="Connector" uid="connector-677" startpinid="74HC192-180-Q1" endpinid="Node-333-0" pointList="788,712,856,712" />
+
+<item itemtype="Connector" uid="connector-678" startpinid="74HC192-180-Q0" endpinid="7-Seg BCD-188-in0" pointList="788,704,864,704,864,688" />
+
+<item itemtype="Connector" uid="connector-679" startpinid="Fixed Voltage-187-outnod" endpinid="74HC192-180-!PL" pointList="700,784,712,784,712,744,740,744" />
+
+<item itemtype="Connector" uid="connector-680" startpinid="74HC192-180-D2" endpinid="Fixed Voltage-179-outnod" pointList="740,720,720,720,720,696,696,696" />
+
+<item itemtype="Connector" uid="connector-681" startpinid="74HC192-180-Q3" endpinid="7-Seg BCD-188-in3" pointList="788,728,840,728,840,688" />
+
+<item itemtype="Connector" uid="connector-682" startpinid="Fixed Voltage-208-outnod" endpinid="74HC192-203-D1" pointList="408,896,440,896,440,936,452,936" />
+
+<item itemtype="Connector" uid="connector-683" startpinid="Fixed Voltage-209-outnod" endpinid="74HC192-203-CPd" pointList="384,1036,384,1020,436,1020,436,984,452,984" />
+
+<item itemtype="Connector" uid="connector-684" startpinid="Fixed Voltage-206-outnod" endpinid="74HC192-203-D0" pointList="416,876,452,876,452,928" />
+
+<item itemtype="Connector" uid="connector-685" startpinid="7-Seg BCD-211-in2" endpinid="Node-540-0" pointList="560,912,560,944" />
+
+<item itemtype="Connector" uid="connector-686" startpinid="74HC192-203-Q0" endpinid="Node-537-0" pointList="500,928,576,928" />
+
+<item itemtype="Connector" uid="connector-687" startpinid="Fixed Voltage-210-outnod" endpinid="74HC192-203-!PL" pointList="412,1008,424,1008,424,968,452,968" />
+
+<item itemtype="Connector" uid="connector-688" startpinid="74HC192-203-D2" endpinid="Fixed Voltage-202-outnod" pointList="452,944,432,944,432,920,408,920" />
+
+<item itemtype="Connector" uid="connector-689" startpinid="74HC192-203-Q3" endpinid="7-Seg BCD-211-in3" pointList="500,952,552,952,552,912" />
+
+<item itemtype="Connector" uid="connector-690" startpinid="Fixed Voltage-231-outnod" endpinid="74HC192-226-D1" pointList="680,896,712,896,712,936,724,936" />
+
+<item itemtype="Connector" uid="connector-691" startpinid="Fixed Voltage-228-outnod" endpinid="74HC192-226-D3" pointList="680,944,696,944,696,952,724,952" />
+
+<item itemtype="Connector" uid="connector-692" startpinid="Fixed Voltage-232-outnod" endpinid="74HC192-226-CPd" pointList="656,1036,656,1020,708,1020,708,984,724,984" />
+
+<item itemtype="Connector" uid="connector-693" startpinid="Fixed Voltage-229-outnod" endpinid="74HC192-226-D0" pointList="688,876,724,876,724,928" />
+
+<item itemtype="Connector" uid="connector-694" startpinid="7-Seg BCD-234-in2" endpinid="74HC192-226-Q2" pointList="832,912,832,944,772,944" />
+
+<item itemtype="Connector" uid="connector-695" startpinid="74HC192-226-Q1" endpinid="Node-432-0" pointList="772,936,840,936" />
+
+<item itemtype="Connector" uid="connector-696" startpinid="74HC192-226-Q0" endpinid="Node-430-0" pointList="772,928,848,928" />
+
+<item itemtype="Connector" uid="connector-697" startpinid="Fixed Voltage-233-outnod" endpinid="74HC192-226-!PL" pointList="684,1008,696,1008,696,968,724,968" />
+
+<item itemtype="Connector" uid="connector-698" startpinid="74HC192-226-D2" endpinid="Fixed Voltage-225-outnod" pointList="724,944,704,944,704,920,680,920" />
+
+<item itemtype="Connector" uid="connector-699" startpinid="74HC192-226-Q3" endpinid="7-Seg BCD-234-in3" pointList="772,952,824,952,824,912" />
+
+<item itemtype="Connector" uid="connector-700" startpinid="Node-313-2" endpinid="7-Seg BCD-142-in1" pointList="840,500,840,476" />
+
+<item itemtype="Connector" uid="connector-701" startpinid="Node-313-1" endpinid="74HC08-312-1A" pointList="840,500,840,544,856,544" />
+
+<item itemtype="Connector" uid="connector-702" startpinid="Node-316-2" endpinid="74HC192-134-Q2" pointList="832,508,772,508" />
+
+<item itemtype="Connector" uid="connector-703" startpinid="Node-316-1" endpinid="74HC08-312-1B" pointList="832,508,832,552,856,552" />
+
+<item itemtype="Connector" uid="connector-704" startpinid="74HC08-312-1Y" endpinid="74HC32-324-1A" pointList="904,552,936,552" />
+
+<item itemtype="Connector" uid="connector-705" startpinid="Fixed Voltage-138-outnod" endpinid="74HC32-324-1B" pointList="716,604,844,604,844,620,924,620,924,560,936,560" />
+
+<item itemtype="Connector" uid="connector-706" startpinid="74HC32-324-1Y" endpinid="Node-329-0" pointList="984,560,984,512,856,512,856,532,788,532,788,580,760,580" />
+
+<item itemtype="Connector" uid="connector-707" startpinid="Node-329-2" endpinid="74HC192-134-R" pointList="760,580,724,580,724,556" />
+
+<item itemtype="Connector" uid="connector-708" startpinid="Node-329-1" endpinid="74HC192-157-CPu" pointList="760,580,760,632,352,632,352,760,476,760" />
+
+<item itemtype="Connector" uid="connector-709" startpinid="74HC192-157-!TCu" endpinid="74HC192-180-CPu" pointList="524,768,628,768,628,752,740,752" />
+
+<item itemtype="Connector" uid="connector-710" startpinid="Node-333-2" endpinid="7-Seg BCD-188-in1" pointList="856,712,856,688" />
+
+<item itemtype="Connector" uid="connector-711" startpinid="Node-333-1" endpinid="74HC08-312-2A" pointList="856,712,912,712,912,624,816,624,816,560,856,560" />
+
+<item itemtype="Connector" uid="connector-712" startpinid="Node-336-2" endpinid="74HC192-180-Q2" pointList="848,720,788,720" />
+
+<item itemtype="Connector" uid="connector-713" startpinid="Node-336-1" endpinid="74HC08-312-2B" pointList="848,720,848,760,808,760,808,568,856,568" />
+
+<item itemtype="Connector" uid="connector-714" startpinid="74HC08-312-2Y" endpinid="74HC32-324-2A" pointList="904,568,936,568" />
+
+<item itemtype="Connector" uid="connector-715" startpinid="Fixed Voltage-184-outnod" endpinid="74HC32-324-2B" pointList="732,816,928,816,928,576,936,576" />
+
+<item itemtype="Connector" uid="connector-716" startpinid="74HC32-324-2Y" endpinid="Node-342-0" pointList="984,576,1012,576,1012,800,764,800" />
+
+<item itemtype="Connector" uid="connector-717" startpinid="Node-342-2" endpinid="74HC192-180-R" pointList="764,800,740,800,740,768" />
+
+<item itemtype="Connector" uid="connector-718" startpinid="Node-342-1" endpinid="74HC192-203-CPu" pointList="764,800,764,840,328,840,328,976,452,976" />
+
+<item itemtype="Connector" uid="connector-719" startpinid="74HC192-203-!TCu" endpinid="74HC192-226-CPu" pointList="500,984,640,984,640,976,724,976" />
+
+<item itemtype="Connector" uid="connector-720" startpinid="74HC192-2-!TCu" endpinid="74HC192-134-CPu" pointList="516,548,656,548,656,540,724,540" />
+
+<item itemtype="Connector" uid="connector-721" startpinid="74HC08-312-3A" endpinid="Node-430-1" pointList="856,576,800,576,800,844,880,844,880,928,848,928" />
+
+<item itemtype="Connector" uid="connector-722" startpinid="Node-430-2" endpinid="7-Seg BCD-234-in0" pointList="848,928,848,912" />
+
+<item itemtype="Connector" uid="connector-723" startpinid="Node-432-2" endpinid="7-Seg BCD-234-in1" pointList="840,936,840,912" />
+
+<item itemtype="Connector" uid="connector-724" startpinid="Node-432-1" endpinid="74HC08-312-3B" pointList="840,936,908,936,908,744,824,744,824,584,856,584" />
+
+<item itemtype="Connector" uid="connector-725" startpinid="74HC08-312-3Y" endpinid="74HC32-324-3A" pointList="904,584,936,584" />
+
+<item itemtype="Connector" uid="connector-726" startpinid="Fixed Voltage-230-outnod" endpinid="74HC32-324-3B" pointList="716,1040,920,1040,920,592,936,592" />
+
+<item itemtype="Connector" uid="connector-727" startpinid="74HC32-324-3Y" endpinid="Node-439-0" pointList="984,592,1116,592,1116,1020,856,1020" />
+
+<item itemtype="Connector" uid="connector-728" startpinid="Node-439-2" endpinid="74HC192-226-R" pointList="856,1020,724,1020,724,992" />
+
+<item itemtype="Connector" uid="connector-729" startpinid="Node-439-1" endpinid="74HC08-438-1A" pointList="856,1020,856,944,996,944" />
+
+<item itemtype="Connector" uid="connector-730" startpinid="74HC08-438-1Y" endpinid="74HC08-438-2A" pointList="1044,952,1092,952,1092,1056,968,1056,968,960,996,960" />
+
+<item itemtype="Connector" uid="connector-731" startpinid="74HC192-203-Q1" endpinid="7-Seg BCD-211-in1" pointList="500,936,568,936,568,912" />
+
+<item itemtype="Connector" uid="connector-732" startpinid="Node-537-2" endpinid="7-Seg BCD-211-in0" pointList="576,928,576,912" />
+
+<item itemtype="Connector" uid="connector-733" startpinid="Node-537-1" endpinid="74HC08-438-1B" pointList="576,928,576,1084,948,1084,948,952,996,952" />
+
+<item itemtype="Connector" uid="connector-734" startpinid="Node-540-2" endpinid="74HC192-203-Q2" pointList="560,944,500,944" />
+
+<item itemtype="Connector" uid="connector-735" startpinid="Node-540-1" endpinid="74HC08-438-2B" pointList="560,944,560,1100,980,1100,980,968,996,968" />
+
+<item itemtype="Connector" uid="connector-736" startpinid="74HC08-438-2Y" endpinid="74HC32-638-1A" pointList="1044,968,1124,968,1124,948,1148,948" />
+
+<item itemtype="Connector" uid="connector-737" startpinid="Fixed Voltage-207-outnod" endpinid="74HC32-638-1B" pointList="444,1040,480,1040,480,1108,1136,1108,1136,956,1148,956" />
+
+<item itemtype="Connector" uid="connector-738" startpinid="74HC32-638-1Y" endpinid="74HC192-203-R" pointList="1196,956,1208,956,1208,1112,452,1112,452,992" />
+
+<item itemtype="Connector" uid="Connector-740" startpinid="Fixed Voltage-739-outnod" endpinid="74HC192-203-D3" pointList="388,944,424,944,424,952,452,952" />
+
+</circuit>
